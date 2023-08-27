@@ -20,7 +20,7 @@ export default function Home() {
         </div>
       </div>
       <div className="ml-28 md:ml-20">
-        <img src={image} alt="profile picture" className='w-48 h-64 object-cover rounded-lg transform transition-all hover:scale-150 duration-200 delay-100'/>
+        <img src={image} alt="profile" className='w-48 h-64 object-cover rounded-lg transform transition-all hover:scale-150 duration-200 delay-100'/>
       </div>
     </div>
   );

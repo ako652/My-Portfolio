@@ -17,20 +17,27 @@ export default function Projects() {
           <img src={image} alt="yummy" className=" w-48 md:w-96  lg:transform hover:animate-bounce" />
         </div>
         <div className=" mt-0 md:mt-20 ">
-          <h1>Yummy page</h1>
-          <p>description : MUI , Javascript, React </p>
+          <h1>Car Rentals</h1>
+          <p>description : MUI , Javascript, React , tailwind css </p>
            <button className="bg-black text-white hover:bg-sky-700 ... w-24 rounded-full border-2 border-indigo-200 border-y-indigo-500 ">
-           <a href="https://github.com/ako652/Food_Yummy_Prpject" target="_blank"  rel="noreferrer" > github</a> 
+           <a href="https://github.com/ako652/HomeCars" target="_blank"  rel="noreferrer" > github</a> 
+          </button>
+          <button className="bg-black text-white hover:bg-sky-700 ... w-24 rounded-full border-2 border-indigo-200 border-y-indigo-500 ">
+           <a href="https://whatbrandcars.vercel.app/" target="_blank"  rel="noreferrer" > deploy link</a> 
           </button>
         </div>
 
       </div>
       <div className="grid m-2 gap-2 md:m-2 gap-2 lg:flex justify-center lg:m-0 ">
          <div className=" mt-0 md:mt-20">
-          <h1>Products API</h1>
-          <p>description : MUI , Javascript, React </p>
+          <h1>switchPay</h1>
+          <p>description : tailwind css, Javascript, React, node ,sql nosql </p>
+          <p>description : This a private repository, figma file attached , still in progress </p>
            <button className="bg-black text-white hover:bg-sky-700 ... w-24 rounded-full border-2 border-indigo-200 border-y-indigo-500 ">
-           <a href="https://github.com/ako652/FrontEnd-ProJect" target="_blank"  rel="noreferrer" > github</a> 
+           <a href="https://github.com/ako652/" target="_blank"  rel="noreferrer" > github</a> 
+          </button>
+           <button className="bg-black text-white hover:bg-sky-700 ... w-24 rounded-full border-2 border-indigo-200 border-y-indigo-500 ">
+           <a href="https://www.figma.com/file/kF3sphHA30ahR9tK121vJ1/Untitled?type=design&node-id=0%3A1&mode=design&t=XCVYKU6SqVp0hOqz-1" target="_blank"  rel="noreferrer" > Figma link</a> 
           </button>
         </div>
         <div>
