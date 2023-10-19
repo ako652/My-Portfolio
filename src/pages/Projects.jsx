@@ -37,7 +37,7 @@ export default function Projects() {
            <a href="https://github.com/ako652/" target="_blank"  rel="noreferrer" > github</a> 
           </button>
            <button className="bg-black text-white hover:bg-sky-700 ... w-24 rounded-full border-2 border-indigo-200 border-y-indigo-500 ">
-           <a href="https://www.figma.com/file/kF3sphHA30ahR9tK121vJ1/Untitled?type=design&node-id=0%3A1&mode=design&t=XCVYKU6SqVp0hOqz-1" target="_blank"  rel="noreferrer" > Figma link</a> 
+           <a href="https://switchpay.vercel.app" target="_blank"  rel="noreferrer" > deploy link</a> 
           </button>
         </div>
         <div>

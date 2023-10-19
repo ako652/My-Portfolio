@@ -1,2 +1,2 @@
 below is my deploy link , feel free to click and navigate through
-https://deployment-coral.vercel.app/
+https://johnako-ako652.vercel.app/
